@@ -15,7 +15,7 @@
 - 💻 **Backend Developer** with expertise in **C++, Python, Django, and MySQL**.
 - 🏆 **Global Rank 1045** in **TCS CodeVita Season 12** (International Coding Competition).
 - 📚 Solved **1200+ coding problems** on platforms like LeetCode, GeeksforGeeks, and Coding Ninjas.
-- 🎓 **Dean’s List Awardee** at Lovely Professional University (Top 10% academically).
+- 🎓 **Dean’s List Awardee** at Lovely Professional University.
 - 🚀 Passionate about **system design, database optimization, and algorithmic problem-solving**.
 
 ---
