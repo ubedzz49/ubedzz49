@@ -43,17 +43,13 @@
 
 ## 💼 **Experience**
 
-### **Backend Developer @ USH (EdTech Startup)**
-- Developed scalable backend systems for an educational platform using **Django and MySQL**.
-- Optimized database queries, reducing response time by **25%**.
+### **Backend Developer @ USH (Unlocking Students Horizon)**
+- Developed scalable backend system for an educational platform using **Django and Postgresql**.
 - Implemented RESTful APIs for seamless frontend-backend integration.
 
 ### **QA Automation Intern @ GoComet**
 - Developed automated test scripts using **Java and Playwright** for end-to-end testing.
 - Collaborated with the team to ensure software reliability through automation.
-
-### **NIT QA Intern**
-- Contributed to automation testing frameworks and executed test cases for software validation.
 
 ---
 
